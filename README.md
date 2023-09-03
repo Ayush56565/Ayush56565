@@ -2,7 +2,6 @@
 <h1 align="center">
   Hi, I am Ayush Sengupta
 </h1>
-![](https://komarev.com/ghpvc/?username=ayush56565)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ayushsengupta/">

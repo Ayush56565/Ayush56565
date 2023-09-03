@@ -4,11 +4,10 @@
 </h1>
 
 
-<p align="center">
-<img src= "https://giphy.com/gifs/nounish-dao-nouns-noggles-Ws6T5PN7wHv3cY8xy8"> 
+<p align="center"> 
+  <img src="https://github.com/Ayush56565/Ayush56565/assets/116731696/0ce41ebc-aee5-4e73-893e-fd36d83d9dc4">
 </p> 
 
-![code-coding](https://github.com/Ayush56565/Ayush56565/assets/116731696/0ce41ebc-aee5-4e73-893e-fd36d83d9dc4)
 
 
 
